@@ -1,4 +1,4 @@
-baseURL = "ues-corp.com"
+baseURL = "https://uestest.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
